@@ -1,6 +1,6 @@
 # Association Rule Based Recommender System
 
-![rs2](https://user-images.githubusercontent.com/111612847/225994138-edcd09dc-be18-4253-87ed-8a9d7eb2809c.jpg)
+![armut-540](https://user-images.githubusercontent.com/111612847/226070857-11a17f4f-b245-47aa-ada1-b0e7c86201fc.png)
 
 ## Introduction about Apriori algorithm
 The Apriori algorithm is a frequently used data mining technique for finding frequent itemsets in a dataset. It is used to discover which items (or items sets) occur together frequently in a dataset. The algorithm first finds the frequency of individual items in the dataset, and then proceeds to find combinations of these items, such as pairs, triples, and so on, until all combinations have been found. This process is repeated until no more combinations can be found. The Apriori algorithm can handle large datasets and is used in various fields such as data mining, market analysis, recommendation systems, and web page analysis.
